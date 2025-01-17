@@ -22,3 +22,7 @@ h2 {
 img{
   width: 350px;
 }
+
+figure{
+  margin: 0;
+}
