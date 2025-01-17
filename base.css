@@ -15,3 +15,7 @@ th,td {
 table {
   border-collapse: collapse;
 }
+
+h2 {
+  border-left: 10px solid lightblue;
+}
